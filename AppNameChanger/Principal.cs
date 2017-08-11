@@ -19,6 +19,7 @@ namespace AppNameChanger
         public Principal()
         {
             InitializeComponent();
+            this.Text = "App Name Changer v" + Application.ProductVersion;
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.procesos = new List<Proceso>();
@@ -67,10 +68,10 @@ namespace AppNameChanger
             }
         }
 
-        internal void SeleccionarProceso(int vProceso)
+        internal void SeleccionarProceso(int pProceso, string pNombreActual)
         {
-            this.txtProcesoId.Text = vProceso.ToString();
-            this.txtNuevoTitulo.Text = "Nuevo Nombre";
+            this.txtProcesoId.Text = pProceso.ToString();
+            this.txtNuevoTitulo.Text = pNombreActual;
             this.txtNuevoTitulo.SelectAll();
         }
 

@@ -7,3 +7,13 @@ c:\users\ggayol\documents\visual studio 2017\Projects\AppNameChanger\AppNameChan
 c:\users\ggayol\documents\visual studio 2017\Projects\AppNameChanger\AppNameChanger\obj\Release\AppNameChanger.csproj.GenerateResource.Cache
 c:\users\ggayol\documents\visual studio 2017\Projects\AppNameChanger\AppNameChanger\obj\Release\AppNameChanger.exe
 c:\users\ggayol\documents\visual studio 2017\Projects\AppNameChanger\AppNameChanger\obj\Release\AppNameChanger.pdb
+E:\Desarrollos\4dev-studio\AppNameChanger\AppNameChanger\AppNameChanger\bin\Release\AppNameChanger.exe.config
+E:\Desarrollos\4dev-studio\AppNameChanger\AppNameChanger\AppNameChanger\bin\Release\AppNameChanger.exe
+E:\Desarrollos\4dev-studio\AppNameChanger\AppNameChanger\AppNameChanger\bin\Release\AppNameChanger.pdb
+E:\Desarrollos\4dev-studio\AppNameChanger\AppNameChanger\AppNameChanger\obj\Release\AppNameChanger.csprojResolveAssemblyReference.cache
+E:\Desarrollos\4dev-studio\AppNameChanger\AppNameChanger\AppNameChanger\obj\Release\AppNameChanger.Principal.resources
+E:\Desarrollos\4dev-studio\AppNameChanger\AppNameChanger\AppNameChanger\obj\Release\AppNameChanger.Properties.Resources.resources
+E:\Desarrollos\4dev-studio\AppNameChanger\AppNameChanger\AppNameChanger\obj\Release\AppNameChanger.VisorProcesos.resources
+E:\Desarrollos\4dev-studio\AppNameChanger\AppNameChanger\AppNameChanger\obj\Release\AppNameChanger.csproj.GenerateResource.Cache
+E:\Desarrollos\4dev-studio\AppNameChanger\AppNameChanger\AppNameChanger\obj\Release\AppNameChanger.exe
+E:\Desarrollos\4dev-studio\AppNameChanger\AppNameChanger\AppNameChanger\obj\Release\AppNameChanger.pdb

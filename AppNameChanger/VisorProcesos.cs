@@ -40,12 +40,13 @@ namespace AppNameChanger
 
         private void grvProcesos_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-            int vProceso = int.Parse(this.grvProcesos.Rows[this.grvProcesos.SelectedCells[0].RowIndex].Cells[0].Value.ToString());
-            //int.Parse(this.grvProcesos.Rows[this.grvProcesos.SelectedRows[0].Index].Cells[0].Value.ToString());
+            int vFilaSeleccionada = this.grvProcesos.SelectedCells[0].RowIndex;
+            int vProceso = int.Parse(this.grvProcesos.Rows[vFilaSeleccionada].Cells[0].Value.ToString());
+            string vNombreActual = this.grvProcesos.Rows[vFilaSeleccionada].Cells[1].Value.ToString();
 
             if (vProceso > 0)
             {
-                this.Padre.SeleccionarProceso(vProceso);
+                this.Padre.SeleccionarProceso(vProceso, vNombreActual);
             }
             this.Dispose();
         }
