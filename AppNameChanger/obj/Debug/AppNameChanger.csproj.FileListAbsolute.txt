@@ -1,0 +1,10 @@
+c:\users\ggayol\documents\visual studio 2017\Projects\AppNameChanger\AppNameChanger\bin\Debug\AppNameChanger.exe.config
+c:\users\ggayol\documents\visual studio 2017\Projects\AppNameChanger\AppNameChanger\bin\Debug\AppNameChanger.exe
+c:\users\ggayol\documents\visual studio 2017\Projects\AppNameChanger\AppNameChanger\bin\Debug\AppNameChanger.pdb
+c:\users\ggayol\documents\visual studio 2017\Projects\AppNameChanger\AppNameChanger\obj\Debug\AppNameChanger.csprojResolveAssemblyReference.cache
+c:\users\ggayol\documents\visual studio 2017\Projects\AppNameChanger\AppNameChanger\obj\Debug\AppNameChanger.Principal.resources
+c:\users\ggayol\documents\visual studio 2017\Projects\AppNameChanger\AppNameChanger\obj\Debug\AppNameChanger.Properties.Resources.resources
+c:\users\ggayol\documents\visual studio 2017\Projects\AppNameChanger\AppNameChanger\obj\Debug\AppNameChanger.csproj.GenerateResource.Cache
+c:\users\ggayol\documents\visual studio 2017\Projects\AppNameChanger\AppNameChanger\obj\Debug\AppNameChanger.exe
+c:\users\ggayol\documents\visual studio 2017\Projects\AppNameChanger\AppNameChanger\obj\Debug\AppNameChanger.pdb
+c:\users\ggayol\documents\visual studio 2017\Projects\AppNameChanger\AppNameChanger\obj\Debug\AppNameChanger.VisorProcesos.resources
